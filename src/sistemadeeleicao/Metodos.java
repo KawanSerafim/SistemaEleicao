@@ -675,7 +675,7 @@ public class Metodos{
                     break;
             }
         }
-        JOptionPane.showMessageDialog(null, nulo + " voto(s) em branco.");
+        JOptionPane.showMessageDialog(null, nulo + " voto(s) nulos.");
     }
     public void mostra_eleitor(Eleitor[] eleitor)throws IOException{
         // Loop responsável por "limpar" os espaços do vetor do objeto de Eleitor. Conforme abaixo:
