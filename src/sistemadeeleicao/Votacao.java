@@ -1,13 +1,14 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package sistemadeeleicao;
-
-/**
- *
- * @author cleri
- */
-public class Votacao {
-    
+public class Votacao{
+    int num, secao, code;
+    Votacao(){
+        this.num = 0;
+        this.secao = 0;
+        this.code = 0;
+    }
+    Votacao(int n, int sc, int c){
+        num = n;
+        secao = sc;
+        code = c;
+    }
 }

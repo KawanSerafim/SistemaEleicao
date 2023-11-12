@@ -1,13 +1,15 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package sistemadeeleicao;
-
-/**
- *
- * @author cleri
- */
 public class Eleitor {
-    
+    int num, secao;
+    String nome;
+    Eleitor(){
+        this.nome = "";
+        this.num = 0;
+        this.secao = 0;
+    }
+    Eleitor(String nm, int n, int sc){
+        nome = nm;
+        num = n;
+        secao = sc;
+    }
 }
