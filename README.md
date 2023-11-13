@@ -20,7 +20,11 @@
     -  2 - Menu de votação.
     -  3 - Agrupar votações.	
     -  4 - Menu de estatísticas.   
-    -  9 - Finalizar. 		   		              
+    -  9 - Finalizar.
+
+## Extras
+
+- Há mais coisas que eu gostaria de colocar no sistema. Mas, pretendo ir fazendo isso aos poucos. Então, por enquanto, é só isso.		   		              
 
 ## Autor
 
