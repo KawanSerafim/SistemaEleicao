@@ -10,7 +10,7 @@
 
 - "**Metodos.java**" classe aonde concentra os códigos responsáveis por fazer as ações do sistema funcionarem.
 
-  - No método de cadastro, é gerado um arquivo .txt onde os demais métodos buscam, com o nome do arquivo como referência, para executarem suas determinadas ações.
+  - Nos métodos de cadastro, é gerado um arquivo .txt onde os demais métodos buscam, com o nome do arquivo como referência, para executarem suas determinadas ações.
 
 - "**Principal.java**" seria o menu do sistema; aonde o usuário determina quais ações executar.
 
