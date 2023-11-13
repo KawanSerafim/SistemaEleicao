@@ -24,7 +24,7 @@
 
 ## Extras
 
-- Há mais coisas que eu gostaria de colocar no sistema. Mas, pretendo ir fazendo isso aos poucos. Então, por enquanto, é só isso.		   		              
+- Há mais coisas que eu gostaria de colocar no sistema. Mas, pretendo ir fazendo isso aos poucos. Então, por enquanto, é só o que tem.		   		              
 
 ## Autor
 
